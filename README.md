@@ -1,0 +1,1 @@
+This projects demonstrates my design skills using CSS. As usual, CSS grid and flexbox are used extensively, with a nice touch of responsiveness for all devices.
