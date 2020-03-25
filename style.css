@@ -184,7 +184,7 @@
   }
   a.contact-btn:hover {
     transform: scale(1.1);
-    color: blue;
+    color: rgb(47, 137, 255);
   }
     
   /*End of welcome section*/  
